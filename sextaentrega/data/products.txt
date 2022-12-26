@@ -1,0 +1,32 @@
+[
+  {
+    "id": "86e354af-1a45-483b-8cea-8cbae528f5c6",
+    "title": "Azucar",
+    "price": "345",
+    "thumbnail": "https://cdn0.iconfinder.com/data/icons/breakfast-time-1/32/breakfast_cute_drink_food_eat_3-Sugar-256.png"
+  },
+  {
+    "id": "391b796a-6c73-4105-bb85-5170ac2f8277",
+    "title": "Fideos",
+    "price": "355",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/food-ingredients-2/50/193-256.png"
+  },
+  {
+    "id": "2f3afceb-7b78-47e8-adfb-fc5922b11656",
+    "title": "Aceite",
+    "price": "754",
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/world-cuisine-astute-vol-2/512/Palm_Oil-256.png"
+  },
+  {
+    "id": "d46b16b9-c6ae-4a64-a2eb-51c3d7b93ce8",
+    "title": "Harina",
+    "price": "220",
+    "thumbnail": "https://cdn2.iconfinder.com/data/icons/bakery-color/200/23-256.png"
+  },
+  {
+    "id": "3ae6e830-93fc-42dc-ad4d-73b9d629a166",
+    "title": "Mayonesa",
+    "price": "420",
+    "thumbnail": "https://cdn0.iconfinder.com/data/icons/food-volume-ii/128/mayonnaise-jar-256.png"
+  }
+]
